@@ -1,0 +1,418 @@
+Armaan Singla                                                                                                                          
+
+Address: Pune, Maharashtra
+
+DOB:      01-11-1992, Gender: Male
+
+E-mail:   armaansingla92@gmail.com
+
+Cell:       +91 9736045395                                               
+
+	 Profile Summary	
+
+
+
+SAP BI Consultant in ZS Associates having 3 years of experience
+
+Currently working as Business analysts in Finance Domain at ZS Associations, Pune
+
+Playing role of SAP BODS SME and SAP HANA developer 
+
+Highly motivated, ambitious and disciplined individual having excellent communication and analytical skills.
+
+Worked with functional teams to know the requirements and developed POCs using SAP BODS, SAP HANA to help clients to have better vison about their requirements.
+
+Very good knowledge of SQL and can write and decode complex SQL queries
+
+Report creation and analysis using WEBI ( Web Intelligence )
+
+Thorough knowledge of BODS server architecture, DSMC (Data Services Management Console), CMC (Central Management Console)
+
+Experience in sourcing data from disparate systems with a good understanding of their data models & ETL procedures.
+
+Good knowledge of SAP BODS,SAP HANA, SAP BW, SAP ECC and SFDC , Oracle , SQL Server
+
+Excellent exposure to software development life cycle (SDLC) processes such as requirements gathering, analyzing, documenting, developing, implementing and testing.
+
+Exposure to development, enhancement and support projects.
+
+Won excellence award 7 times in a row.
+
+
+
+	AREA OF INTEREST
+
+
+
+Special interest in application development using BODS.
+
+Learning of other ETL tools such as Informatica, Data Stage.
+
+Learning of other reporting tools such as Tableau.
+
+	EDUCATION                                                                                                                                       
+
+
+
+Course
+
+Institution
+
+Year of Passing
+
+Percentage
+
+B.Tech
+
+Jaypee University Of Information Technology
+
+2014
+
+81%
+
+12th
+
+P.S.E.B
+
+2010
+
+79 %
+
+10th
+
+P.S.E.B
+
+2008
+
+81 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skills:- 
+
+
+
+	SAP Data Services
+
+
+
+Development
+
+End to end implementation and development of Jobs, data flows, workflows, Exception and error handling, Scripting , Transformations
+
+Admin
+
+CMC( Central Management Console), DSMC (data Services Management Console), Repository creation , Providing Access to the User, Migration of the objects
+
+Integration
+
+SFDC(Sales Force), SAP ECC, SAP BW, SAP HANA, Oracle, SQL Server, Flat Files, Excel Files, XML 
+
+
+
+	SAP HANA
+
+
+
+Standalone Development
+
+Attribute, Analytic and Calculation views, Flow graphs, Data base tables ,Procedures, PAL( Predictive Analysis Library)
+
+
+
+	WEBI 
+
+
+
+Development 
+
+Report Creation, Universe Creation and Modification using Information Design Tool(IDT) 
+
+
+
+	Languages 
+
+
+
+Database Language	:	SQL
+
+Database			:	Oracle 11g ,  SAP HANA , SQL Server
+
+
+
+	LANGUAGES KNOWN
+
+English, Hindi, Punjabi, French
+
+
+
+	PROFESSIONAL IT WORK EXPERIENCE                                                                                                                                
+
+
+
+Career Profile
+
+  From Date
+
+To Date
+
+Company
+
+Designation
+
+Total Experience
+
+21/07/2014
+
+30/12/2016
+
+Infosys ltd.
+
+Senior System Engineer
+
+2 years 6 months
+
+02/01/2017
+
+Present
+
+ZS Associates
+
+Financial Analyst
+
+6 months
+
+	PROJECT DETAILS
+
+
+
+     Current Project:-
+
+
+
+ZS Associates – (From January 2017 to Present)
+
+
+
+Role: - I am currently working as a SAP BI Consultant to implement new requirements and changes existing landscapes according to the business requirement and playing role of an architect. Below are key points of my role and responsibilities:-
+
+
+
+SAP Data Services Developer and Administration:- 
+
+
+
+To Gather the requirements and developing the new jobs as per the requirements
+
+To modify the existing jobs in case of changes in the source system
+
+To add the new functionalities in the existing job
+
+To enhance the exiting jobs and optimization of the jobs
+
+To write the SQL queries and analyzing the data
+
+To provide the access to the new users and creation of new repositories
+
+To make sure if all the services are up and running
+
+
+
+Below are the integration achievements:- 
+
+
+
+Integration of SAP Data Services with Sales Force
+
+Integration of SAP Data Services with SAP ECC
+
+Integration of SAP Data Services with SAP HANA
+
+Integration of SAP Data Services with SQL Server
+
+
+
+SAP HANA Developer: - Below are the points regrading my roles and responsibilities as a HANA Developer 
+
+To create the views as per the business requirements
+
+To change the existing views to add the new functionalities
+
+To enhance the already created views
+
+To use the new functionalities of SAP HANA to convert the existing jobs in Data Services into flow graphs 
+
+To explore the new functionalities of SAP HANA i.e. Predictive Analysis , Flow graphs
+
+
+
+WEBI:- 
+
+
+
+Working with business users and other finance teams such as CFM , Billing , Procurement for creation of reports and enhancing/modification of existing reports
+
+Migration of the reports from Legacy system (Access Database ) into SAP
+
+Consolidation of the reports from different systems into one system
+
+Automation of the reports
+
+Analyzing the data and providing the business insight 
+
+To add the new functionalities i.e. columns needs to be added from source to report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Previous Projects:- 
+
+
+
+Infosys Limited - (From November 2014 to December 2016)
+
+
+
+ 	Client: Major Pharmaceutical Company based in the USA.
+
+
+
+ 	Roles & Responsibilities: Worked on BODS Environment 4.1, 4.2
+
+
+
+BODS Developer: The project had 7 BODS interfaces containing data regarding sales and commercial contracting for the US region. Below were some of my responsibilities:
+
+
+
+Direct client/user interaction for understanding the requirements.
+
+Used SAP BW, SAP ECC, and Oracle, and SFDC, Flat file as a source and target system.
+
+Documentation, developing, testing, bugs fixing at code level.
+
+Creation of Technical Specification, Business process definition, UTS and SFT documents
+
+Address standardization in USPC format using Smarty Street.
+
+Migration of jobs through different environments.
+
+Go-live execution.
+
+	
+
+BODS Support and Enhancement Activities: Currently, I am working in a BODS support project. There are around 60 BODS interfaces. I am involved in the maintenance and support of the already created interfaces in the development, test and production environment which include troubleshooting and enhancing the application.
+
+
+
+Proper handling of the Incident tickets and service requests (through SERVICE NOW Portal).
+
+Daily monitoring of the different interfaces and resolving day to day issues.
+
+Enhancement of the already created jobs to improve efficiency.
+
+To modify the existing interfaces as per request.
+
+
+
+BODS Administration: - My responsibility is to make sure that all the services are up and running in all the environments 
+
+
+
+Performing Admin activities by assigning Users access to different BODS repositories /services through CMC.
+
+Job scheduling through management console and Autosys
+
+Server, adapter and RFC configurations and restarting of the services.
+
+Log/files deletion from server.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qlikview: - I am involved in the maintenance and support of the already created Dashboards in the Development, Test and Production Environment which include troubleshooting and enhancing the application. Below are some of my responsibilities:
+
+
+
+My responsibility is to make sure all if all the services are up and running fine in all the environments and also ensure that all the assigned tasks and jobs run properly in QEMC (checking the error logs for the failed jobs and correct them). 
+
+Creating and setting up new tasks in QEMC, triggering and scheduling them as per requirement.
+
+Created and Scheduled Weekly Qlikview reports to distribute on email using Publisher.
+
+Performing Admin activities by assigning Users access to different Dashboards through Service Portals and QEMC
+
+
+
+
+
+	  DECLARATION
+
+
+
+I hereby declare that the above information is true & correct to the best of my knowledge & belief.
+
+
+
+
+
+PLACE:    Pune 							 SIGNATURE
+
+DATE:	20/07/17	
+
+				                                                   		 	Armaan Singla
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://mo-653f5bebe.mo.sap.corp:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 609-502-963
+10.16.35.20 - - [07/Dec/2018 05:40:56] "GET / HTTP/1.1" 200 -
+[<__main__.jd instance at 0x7f7a59e92200>, <__main__.jd instance at 0x7f7a59e92128>, <__main__.jd instance at 0x7f7a59e92248>, <__main__.jd instance at 0x7f7a59e922d8>]

@@ -1,0 +1,73 @@
+<Config-Specifications>
+    <Term name="Sections">
+        <Method name="section_extractor">
+            <SummarySection>SUMMARY,OBJECTIVE,GOAL,AIM,CERTIFICATION,CERTIFICATIONS,PROFILE SUMMARY,CAREER SUMMARY,PROFESSIONAL OVERVIEW,EXECUTIVE SUMMARY,CARREER SNAPSHOT,WORK EXPERIENCE,SUMMARY OF EXPERIENCE,EXPERIENCE SUMMARY,PROFILE BRIEF,PROFESSIONAL SUMMARY</SummarySection>
+            <SkillSection>SKILL,SKILLS,TECHNICAL SKILL,TECHNICAL SKILLS,SAP CERTIFICATION DETAILS,SAP CERTIFICATION DETAIL,DEVELOPMENT SKILL,DEVELOPMENT SKILLS,KEY SKILLS AND EXPERTISE,KEY SKILLS,KEY SKILL,EXPERTISE,TECHNICAL HIGHLIGHTS,SAP SKILLS,SAP SKILL,ADDITIONAL SKILL,ADDITIONAL SKILLS,CARREER SNAPSHOT,IT SKILLS,EXPERIENCE SUMMARY,CAREER SUMMARY,WORK EXPERIENCE,PROFESSIONAL SKILL SET,SKILL SET,SOFTWARE SKILL,SOFTWARE SKILLS,CORE COMPETENCIES,CORE COMPETENCY,WORK HISTORY,SKILLS AQUIRED</SkillSection>
+            <EmploymentSection>EMPLOYMENT,HISTORY,WORK,EXPERIENCE,EMPLOYER DETAILS,WORK HISTORY</EmploymentSection>
+            <EducationSection>EDUCATION,EDUCATIONAL DETAILS,EDUCATIONAL DETAIL</EducationSection>
+            <ExperienceSection>CURRENT PROJECT,PREVIOUS PROJECT,PREVIOUS PROJECTS,CURRENT PROJECTS,PROESSIONAL EXPERIENCE,RESPONSIBILITIES,ROLE,ROLES,EXPERIENCE,SUMMARY,PROFILE SUMMARY,SYNOPSIS,PROJECT,PROJECT NAME,ORGANIZTION EXPERIENCE,CURRENT PROJECT,WORK HISTORY,PROFESSIONAL PROJECTS,PROFESSIONAL PROJECT,EXPERIENCE DETAIL,EXPERIENCE DETAILS,WORK HISTORY</ExperienceSection>
+            <Project>HONORS,REWARDS,ACCOMPLISHMENTS,CURRENT PROJECT,WORK HISTORY,PROFESSIONAL PROJECTS,PROFESSIONAL PROJECT,PROFESSIONAL PROFILE,PAST PROJECTS,PAST PROJECTS HANDLED,PROJECT OVERVIEW,PROJECTS OVERVIEW,PROJECTS EXECUTED,PROJECT PROFILE,EXPERIENCE PROFILE,PROJECTS,INTERNAL PROJECTS,WORK EXPERIENCE,PROJECTS HANDLED,PROJECT UNDERTAKEN,KEY PROJECTS UNDERTAKEN,PROJECTS UNDERTAKEN</Project>
+            <HonorsSection>HONORS,REWARDS,ACCOMPLISHMENTS</HonorsSection>	   
+        </Method>
+    </Term>
+    <Term name="Metadata">
+        <Method name="univalue_extractor" section="">
+            <Name>(^(Name:\s*)?(.+))</Name>
+            <Email>((\w+[.|\w])*@(\w+[.])*\w+)</Email>
+            <Email>([A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4})</Email>
+            <Email>(([a-z0-9!#$%'*+\/=?^_`{|.}~-]+@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?))</Email>
+            <Phone>((\+\d+\s*)?(\(?\d{3}\)?\D+\d{3}\D+\d{4}))</Phone>
+            <Phone>((?:\(?\+91\)?)?\d{10})</Phone>
+            <Phone>(\(?(\+)?(\d{1,3})?\)?[\s-]{0,1}?(\d{"+str(i)+"})[\s\.-]{0,1}(\d{"+str(j)+"})[\s\.-]{0,1}(\d{"+str(n-i-j)+"}))</Phone>
+            <Address>Address: (.+)</Address>
+        </Method>
+    </Term>
+    <Term name="Skills">
+        <Method name="section_value_extractor_1" section="SkillSection">
+            <Certifications>Certified,Certification</Certifications>
+            <QA>Selenium,Selenium Grid,Cucumber,Jenkins,Robot,AutoIT,SilkTest,JMeter</QA>
+            <Programming>Python,Perl,JAVA</Programming>
+	    <BIGDATA>HDFS,MAP REDUCE, YARN, HIVE, PIG,  SQOOP, HBASE,FLUME,OOZIE</BIGDATA>
+            <SAPHANA>HANA,HANA 1.0,HANA 2.0,BWONHANA,BW4HANA</SAPHANA>
+            <SAPBW>SAP BUSINESS WAREHOUSE,SAP BW,SAP BW ON HANA,SAP BW 3.X,SAP BW 3.5,SAP BW 7.X,SAP BW 7.0,SAP BW 7.3,SAP BW 7.3,SAP BW 7.4,SAP BW 7.5,SAP BW4HANA,B.W,BW</SAPBW>
+            <SAPBO>SAP BO,SAP BOBJ,WEBI,WEB INTELLIGENCE,SAP CRYSTAL REPORT,XCELSIUS,ANALYSIS FOR OFFICE,ADVANCED ANALYSIS,BODI,BODS,BUSINESS OBJECTS DATA INTEGRATOR,BUSINESS OBJECTS DATA SERVICES,BUSINESS OBJECTS PLANNING AND CONSOLIDATION,SAP BUSINESSOBJECTS ENTERPRISE INFORMATION MANAGEMENT,BODS,BODI,BPC,EIM,EPM,GRC,BI ,AFO</SAPBO>
+        </Method>
+    </Term>
+
+
+    <Term name="Education">
+        <Method name="section_value_extractor_2" section="EducationSection">
+            <Secondary>10TH,X,MATRIC,SSC</Secondary>
+            <HigherSecondary>12TH,XII,HSC</HigherSecondary>
+            <Diploma>CDAC,PGDBM</Diploma>
+            <Bachelors>BE,B.E.,BTECH,B.TECH,BS,MECHANICAL,INSTRUMENTATION,CIVIL</Bachelors>
+            <Masters>ME,MTECH,M.E.,M.TECH,MS</Masters>
+            <PhD>DOCTORATE,PHD,Ph.D.,PH.D</PhD>
+        </Method>
+    </Term>
+    <Term name="Experience">
+        <Method name="section_exp_extractor" section="">
+            <Years>YEAR,YEARS,OVERALL,TOTAL,EXPERIENCE</Years>
+        </Method>
+    </Term>
+
+    <Term name="Project">
+        <Method name="section_pro_extractor" section="ExperienceSection">
+            <Project>HANA,JAN,FEB,MAR,APR,MAY,JUNE,JUL,AUG,SEPT,OCT,NOV,DEC,2012,2013,2014,2015,2016,2017,2018,JANUARY,FEBRUARY,MARCH,APRIL,MAY,JUNE,JULY,AUGUST,SEPTEMBER,OCTOBER,NOVEMBER,DECEMBER,PRESENT,TILL NOW,NOW</Project>
+        </Method>
+    </Term>
+    <Term name="Technology">
+        <Method name="section_exp_extractor_tech" section="ExperienceSection">
+            <SAPHANA>HANA,HANA 1.0,HANA 2.0,BWONHANA,BW4HANA</SAPHANA>
+            <BIGDATA>HDFS,MAP REDUCE, YARN, HIVE, PIG,SQOOP, HBASE,FLUME AND OOZIE</BIGDATA>
+            <SAPBW>SAP BUSINESS WAREHOUSE,SAP BW,SAP BW ON HANA,SAP BW 3.X,SAP BW 3.5,SAP BW 7.X,SAP BW 7.0,SAP BW 7.3,SAP BW 7.3,SAP BW 7.4,SAP BW 7.5,SAP BW4HANA,B.W,BW</SAPBW>
+            <SAPBO>SAP BO,SAP BOBJ,WEBI,WEB INTELLIGENCE,SAP CRYSTAL REPORT,XCELSIUS,ANALYSIS FOR OFFICE,ADVANCED ANALYSIS,BODI,BODS,BUSINESS OBJECTS DATA INTEGRATOR,BUSINESS OBJECTS DATA SERVICES,BUSINESS OBJECTS PLANNING AND CONSOLIDATION,SAP BUSINESSOBJECTS ENTERPRISE INFORMATION MANAGEMENT,BODS,BODI,BPC,EIM,EPM,GRC,BI,AFO</SAPBO>
+        </Method>
+    </Term>
+    <Term name="Visa/Certification">
+        <Method name="section_exp_extractor" section="">
+            <VISA>VISA,PERMANENT RESIDENCE</VISA>
+            <CERTIFICATION>HANA CERTIFIED,CERTIFIED,CERTIFICATION</CERTIFICATION>
+        </Method>
+    </Term>
+</Config-Specifications>
