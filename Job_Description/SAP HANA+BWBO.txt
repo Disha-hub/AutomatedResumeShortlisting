@@ -1,0 +1,33 @@
+Job Description for HANA and BI Consultant
+Purpose and Objective
+Consultant will be responsible for implementing HANA and or SAP BI solutions (NW BW or Business Objects) in various deployment modes. The consultant will interact with onsite team members to ensure alignment of technical design and project objectives. He/she will provide technical knowledge on the business modelling of HANA objects, performance improvement in HANA, replication of data to HANA and reporting on top of HANA views. Consultant will also be responsible for SAP BW/BW on HANA or BO implementation. Consultant will use ASAP methodologies during requirement gathering, design, build/ test and deployment.
+For this Role, consultant should have experience in at least 3 full life cycle of SAP BW/BW on HANA/BW4HANA/BO implementation and at least 2 full life cycle of SAP HANA Modelling implementation.
+Expectation and tasks
+Create business blueprint as per the functional requirements provided
+Produce Technical design document, create prototypes 
+Deliver solution as per the business blueprint and technical design
+Work as part of large team or work independently 
+
+
+Work Experience 
+Minimum of 2 full life cycle implementations in SAP HANA. Minimum 3 full life cycle implementations in SAP BW or SAP BO
+4-11 years of work experience in SAP Analytical products, e.g. BW, BO, HANA.
+Nice To Have
+Experience on SDA for real time data replication, SDI to create and execute flow graphs, creation and extension of HANA Live objects or building XSJS programs would be added advantage. 
+Knowledge on S4 HANA Analytics like building and extending CDS Views, Creating Query Views or Building KPIs using KPI Modeller would be an added advantage.
+Experience working on mixed modelling with BW on HANA and HANA native modelling
+Experience with development on SAP Cloud Platform, knowledge of HANA XS/XSA Development, oData Services
+Experience working on HANA 2.0
+
+A degree in computer science, engineering, accounting, finance or related field 
+Minimum years of Education required: 16 years or more years
+Good problem solving and troubleshooting skills
+Previous HANA modelling and scripting experience including ability to write complex stored procedures and HANA views using SQL. 
+High level knowledge of various replication methods to HANA and various reporting techniques on top of HANA views
+Knowledge of various deployment modes of HANA
+Knowledge of SAP BW or SAP BO or both. 
+Knowledge of SAP Analytics Cloud
+Ability to work as part of large engagement
+Good core consulting skills Oral and written communication, organization and planning, client facing and interpersonal 
+
+

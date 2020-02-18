@@ -1,0 +1,4 @@
+5-8 Years of experience in SAP BW.
+Expereince on SAP BW, SAP BW 7.3, BW4HANA
+Knowledge of SAP BW, SAP BW ON HANA , SAP BW4HANA
+Deep knowledge of configuration of BW data objects including InfoObjects, InfoSources,Transformations, ODS, Cubes, Info Providers, and multi providers.

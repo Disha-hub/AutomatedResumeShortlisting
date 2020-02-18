@@ -1,0 +1,5 @@
+Professional Experience
+a: Must have experience on SAP HANA modelling and Development
+b: Must have experience on SAP HANA analytics projects as the primary point of contact for solution implementation
+c: Must have good Exposure on replication methods like SLT, BODS and SDA
+d: Must have experience in calculation views,procedures,functions in SAP HANA
